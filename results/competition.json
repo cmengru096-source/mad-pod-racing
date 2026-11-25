@@ -49,6 +49,22 @@
       "ties": 0,
       "sample_replay": "https://www.codingame.com/replay/928668691",
       "submitted_source_sha256": "bbe026ef87917ac761b013a4d493e387380eafeaa1cbb38d7fd8018767eef727"
+    },
+    {
+      "league": "Legend",
+      "checked_at": "2026-11-25T14:45:20.2364455+08:00",
+      "submission_id": 41810609,
+      "settled": true,
+      "league_rank": 1096,
+      "league_total": 2341,
+      "overall_rank": 1096,
+      "overall_total": 236946,
+      "score": 24.91,
+      "wins": 116,
+      "losses": 104,
+      "ties": 0,
+      "sample_replay": "https://www.codingame.com/replay/928688692",
+      "submitted_source_sha256": "bbe026ef87917ac761b013a4d493e387380eafeaa1cbb38d7fd8018767eef727"
     }
   ]
 }
