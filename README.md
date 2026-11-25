@@ -44,4 +44,4 @@ python -m unittest discover -s tests -v
 
 ## 实验范围
 
-Gold 对局每方控制两辆赛车，任一辆率先完赛即获胜。完整的 C++ 参赛程序在每回合 75 毫秒的时限内，分别为领跑车和协作车搜索动作。Python 参考模型支持推进四辆赛车，演示实验只规划一辆车，相向场景中的对手按惯性滑行。表中的本地完赛回合数衡量这两个固定场景；官方段位来自完整程序与其他选手的对局。Codex 负责本项目的实现、测试与比赛提交。[CodinGame 赛题](https://www.codingame.com/multiplayer/bot-programming/mad-pod-racing)
+Gold 对局每方控制两辆赛车，任一辆率先完赛即获胜。完整的 C++ 参赛程序在每回合 75 毫秒的时限内，分别为领跑车和协作车搜索动作。Python 参考模型支持推进四辆赛车，演示实验只规划一辆车，相向场景中的对手按惯性滑行。表中的本地完赛回合数衡量这两个固定场景；官方段位来自完整程序与其他选手的对局。本项目采用 AI 辅助开发。参赛者选定比赛并设定排位目标，Codex 负责策略设计、代码实现、测试和比赛提交。[CodinGame 赛题](https://www.codingame.com/multiplayer/bot-programming/mad-pod-racing)
