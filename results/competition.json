@@ -1,0 +1,54 @@
+{
+  "arena": "Mad Pod Racing",
+  "leaderboard": "https://www.codingame.com/multiplayer/bot-programming/mad-pod-racing/leaderboard",
+  "placements": [
+    {
+      "league": "Bronze",
+      "checked_at": "2026-11-25T11:07:47+08:00",
+      "submission_id": 41810197,
+      "settled": true,
+      "league_rank": 1,
+      "league_total": 21622,
+      "overall_rank": 96809,
+      "overall_total": 236944,
+      "score": 30.65,
+      "wins": 216,
+      "losses": 6,
+      "ties": 0,
+      "sample_replay": "https://www.codingame.com/replay/928647236",
+      "submitted_source_sha256": "d8e6b764a7d53782a57982678aa668fa09a175f5e02d12daec6892da79fed2fc"
+    },
+    {
+      "league": "Silver",
+      "checked_at": "2026-11-25T12:22:32.9063018+08:00",
+      "submission_id": 41810197,
+      "settled": true,
+      "league_rank": 1,
+      "league_total": 72069,
+      "overall_rank": 24744,
+      "overall_total": 236944,
+      "score": 34.45,
+      "wins": 205,
+      "losses": 15,
+      "ties": 0,
+      "sample_replay": "https://www.codingame.com/replay/928662677",
+      "submitted_source_sha256": "d8e6b764a7d53782a57982678aa668fa09a175f5e02d12daec6892da79fed2fc"
+    },
+    {
+      "league": "Gold",
+      "checked_at": "2026-11-25T12:48:24.8010945+08:00",
+      "submission_id": 41810609,
+      "settled": true,
+      "league_rank": 1,
+      "league_total": 22409,
+      "overall_rank": 2340,
+      "overall_total": 236944,
+      "score": 45.19,
+      "wins": 214,
+      "losses": 6,
+      "ties": 0,
+      "sample_replay": "https://www.codingame.com/replay/928668691",
+      "submitted_source_sha256": "bbe026ef87917ac761b013a4d493e387380eafeaa1cbb38d7fd8018767eef727"
+    }
+  ]
+}
